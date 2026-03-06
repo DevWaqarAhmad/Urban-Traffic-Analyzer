@@ -29,6 +29,3 @@ This system automates vehicle detection in real-time.
 ## 🚀 Quick Start
 pip install -r requirements.txt
 streamlit run app.py
-
-## 📹 Demo
-[Live Demo Link] | [Demo Video]
